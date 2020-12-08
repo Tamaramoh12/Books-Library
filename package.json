@@ -1,0 +1,28 @@
+{
+  "name": "open-shelf-a-book-wiki",
+  "version": "1.0.0",
+  "description": "",
+  "main": "server.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "node server.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Tamaramoh12/Open-Shelf-A-Book-Wiki.git"
+  },
+  "author": "Tamara Hussien",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Tamaramoh12/Open-Shelf-A-Book-Wiki/issues"
+  },
+  "homepage": "https://github.com/Tamaramoh12/Open-Shelf-A-Book-Wiki#readme",
+  "dependencies": {
+    "dotenv": "^8.2.0",
+    "ejs": "^3.1.5",
+    "express": "^4.17.1",
+    "method-override": "^3.0.0",
+    "pg": "^8.4.2",
+    "superagent": "^6.1.0"
+  }
+}
